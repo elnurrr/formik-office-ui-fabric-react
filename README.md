@@ -88,3 +88,4 @@ yarn start
 ```
 yarn test
 ```
+![alt text](https://github.com/elnurrr/formik-office-ui-fabric-react/blob/master/qwe1.gif)
